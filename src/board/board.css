@@ -1,0 +1,32 @@
+.space {
+    width: 25px;
+    height: 25px;
+    margin: 5px;
+    background-color: gray;
+}
+
+.hint {
+    width: 25px;
+    height: 25px;
+    margin: 5px;
+}
+
+.row {
+    width: 400px;
+    height: 50px;    
+    display: flex;
+}
+
+.current-row {
+    background-color: lightblue;
+}
+
+.board {
+    margin-left: 100px;
+    width: 400px;
+    background-color: purple;
+}
+
+.message {
+    color: white;
+}
